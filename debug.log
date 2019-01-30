@@ -1,0 +1,2 @@
+[0130/141952.281:ERROR:process_reader_win.cc(242)] ReadMemory at 0x1820b983f80 of 512 bytes failed: «апрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0130/142929.765:ERROR:process_reader_win.cc(242)] ReadMemory at 0x171eb073f80 of 512 bytes failed: «апрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
