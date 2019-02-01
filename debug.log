@@ -1,2 +1,8 @@
 [0130/141952.281:ERROR:process_reader_win.cc(242)] ReadMemory at 0x1820b983f80 of 512 bytes failed: «апрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
 [0130/142929.765:ERROR:process_reader_win.cc(242)] ReadMemory at 0x171eb073f80 of 512 bytes failed: «апрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0130/145455.844:ERROR:process_reader_win.cc(242)] ReadMemory at 0x2816fcf3f80 of 512 bytes failed: «апрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0130/151928.086:ERROR:process_reader_win.cc(242)] ReadMemory at 0x1fdb22a3f80 of 512 bytes failed: «апрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0130/212953.508:ERROR:process_reader_win.cc(242)] ReadMemory at 0x197460d3f80 of 512 bytes failed: «апрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0131/134519.038:ERROR:process_reader_win.cc(242)] ReadMemory at 0x2174a2d3f80 of 512 bytes failed: «апрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0131/214915.912:ERROR:process_reader_win.cc(242)] ReadMemory at 0x1d74ea23f80 of 512 bytes failed: «апрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)
+[0201/151022.441:ERROR:process_reader_win.cc(242)] ReadMemory at 0x1f1cc113f80 of 512 bytes failed: «апрос ReadProcessMemory или WriteProcessMemory был выполнен только частично. (0x12B)

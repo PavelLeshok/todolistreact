@@ -1,0 +1,15 @@
+.header-container {
+    display: flex;
+    justify-content: space-between;
+    background-color: aquamarine;
+    padding-top: 10px;
+    padding-bottom:10px;
+}
+#header-title {
+    margin-left: 35px;
+}
+#header-buttons {
+    margin-right: 40px
+}
+
+

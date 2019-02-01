@@ -1,0 +1,36 @@
+#task-container {
+    min-height: 150px;
+    max-width: 600px;
+    margin:20px auto;
+    border: 1px solid black;
+    padding: 10px 10px;
+    box-shadow: 5px 5px 10px rgba(0,0,0,0.5);
+    background-color: white
+}
+#task-container:hover {
+    box-shadow: 10px 10px 15px rgba(0,0,0,0.5)
+}
+
+#task-checked {
+    margin-left: 480px;
+    color: green
+}
+
+#task-title {
+    margin-top: 15px;
+    display:inline-block
+}
+
+#task-buttons {
+    margin-bottom:5px;
+    display: flex;
+    align-items: baseline
+}
+
+#task-button-edit {
+    margin-left: 300px
+}
+
+#task-priority {
+    color: blue
+}
